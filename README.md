@@ -1,3 +1,5 @@
+# Detection of foci of breast cancer from histology images
+
 **Context**: 
 
 Invasive Ductal Carcinoma (IDC) is the most common subtype of all breast cancers. To assign an aggressiveness grade to a whole mount sample, pathologists typically focus on the regions which contain the IDC. As a result, one of the common pre-processing steps for automatic aggressiveness grading is to delineate the exact regions of IDC inside of a whole mount slide.
@@ -11,3 +13,9 @@ The original dataset consisted of 162 whole mount slide images of Breast Cancer 
 Breast cancer is the most common form of cancer in women, and invasive ductal carcinoma (IDC) is the most common form of breast cancer. Accurately identifying and categorizing breast cancer subtypes is an important clinical task, and automated methods can be used to save time and reduce error.
 
 **Adrian Rosebrock** of **PyImageSearch** has [this wonderful tutorial](https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/) on this same topic as well. Be sure to check that out if you have not. I decided to use the `fastai` library and to see how could I improve the predictive performance by incorporating modern deep learning practices. 
+
+## Presentation at APCON 2019
+
+This work features in list of best presented papers at [APCON 2019](http://www.ijpmonline.org/downloadpdf.asp?issn=0377-4929;year=2019;volume=62;issue=5;spage=1;epage=1;aulast=;type=2)
+
+Added the deck in the repo
